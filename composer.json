@@ -2,6 +2,7 @@
     "name": "arlan/test",
     "description": "cuma test",
     "type": "library",
+	"license": "MIT",
     "authors": [
         {
             "name": "Arlandi Landjono",
