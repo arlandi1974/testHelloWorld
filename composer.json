@@ -1,6 +1,6 @@
 {
     "name": "arlan/test",
-    "description": "cuma test",
+    "description": "cuma test hello world",
     "type": "library",
 	"license": "MIT",
     "authors": [
@@ -9,9 +9,8 @@
             "email": "arlandi@yahoo.com"
         }
     ],
-	"minimum-stability": "stable",
 	"autoload": {
-        "psr-4": {"arlandi\\HelloWorld\\": "src/"}
+        "psr-4": {"arlan\\test": "src/"}
     },
     "require": {}
 }
