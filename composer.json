@@ -1,0 +1,15 @@
+{
+    "name": "arlan/test",
+    "description": "cuma test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Arlandi Landjono",
+            "email": "arlandi@yahoo.com"
+        }
+    ],
+	"autoload": {
+        "psr-4": {"arlandi\\HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
